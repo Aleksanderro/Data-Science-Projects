@@ -5,7 +5,7 @@
 # Created Date: 24.05.2022
 # email       : ale.ratajczyk@gmail.com
 # status      : Prototype, next versions in deveopment
-# git         : https://github.com/Aleksanderro/Python_TKinter
+# git         : https://github.com/Aleksanderro/Data-Science-Projects
 
 # version = 1.0
 # ----------------------------------------------------------------------------

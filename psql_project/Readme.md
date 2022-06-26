@@ -1,4 +1,4 @@
-### PSQL database acces from Python scipt
+# PSQL database acces from Python scipt
 ## Psycopg2 
 Used __Psycopg2__ library to create connection to my own sql database and perform some operations on it.
 Project uses also __Tkinter__ as GUI for simple feedback. More specified informations are still on IDE console.
